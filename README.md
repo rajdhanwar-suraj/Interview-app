@@ -14,7 +14,7 @@ Interview App is a full-stack Interview application designed for real-time commu
 
 Explore the app live: [Interview App Demo]()
 
-![App Screenshots](https://github.com/rajdhanwar-suraj/Interview-app/blob/master/screenshots/questionPage.png)
+![App Screenshots](https://github.com/rajdhanwar-suraj/Interview-app/blob/main/screenshots/questionPage.png)
 
 ## Run Locally
 
